@@ -1,0 +1,1 @@
+cout<<dest[i];
